@@ -1,0 +1,8 @@
+streamlit
+transformers
+newspaper3k
+readability-lxml
+feedparser
+requests
+pandas
+torch
